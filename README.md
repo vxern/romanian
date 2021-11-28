@@ -13,7 +13,7 @@ I invite everybody and anybody to contribute to his and my own repository, and t
   - [Moldova](#moldova)
   - [Diaspora](#diaspora)
 - [Language](#language)
-  - [Introduction](#introduction)
+  - [Information](#information)
   - [History](#history)
   - [Interactive Resources](#interactive-resources)
     - [Websites](#websites)
@@ -24,3 +24,21 @@ I invite everybody and anybody to contribute to his and my own repository, and t
     - [Monolingual](#monolingual)
     - [Bilingual](#bilingual)
     - [Multilingual](#multilingual)
+
+## Native Countries
+
+This section contains information about the countries to whom the Romanian language is native (Romania and Moldova), as well as information for the Romanian diaspora (ethnic Romanian population outside of those countries).
+
+### Romania
+
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Romania) - Surface information about the Romanian country.
+- [Culture Crossing Guide](http://guide.culturecrossing.net/basics_business_student.php?id=170) - Facts about Romania and its culture, as well as its people.
+
+### Moldova
+
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Moldova) - Surface information about the Moldovan country.
+- [Culture Crossing Guide](http://guide.culturecrossing.net/basics_business_student.php?id=136) - Facts about Romania and its culture, as well as its people.
+
+### Diaspora
+
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Romanian_diaspora) - Surface information about the diaspora, and its population content of various countries.
