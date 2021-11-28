@@ -24,6 +24,7 @@ I invite everybody and anybody to contribute to his and my own repository, and t
     - [Monolingual](#monolingual)
     - [Bilingual](#bilingual)
     - [Multilingual](#multilingual)
+- [References](#references)
 
 ## Native Countries
 
@@ -42,3 +43,20 @@ This section contains information about the countries to whom the Romanian langu
 ### Diaspora
 
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Romanian_diaspora) - Surface information about the diaspora, and its population content of various countries.
+
+## Language
+
+This section contains information about the Romanian language, as well as links to resources.
+
+### Information
+
+- Name: **Romanian** (previously also spelled **Rumanian** and **Roumanian** \[French **roumain**\]), also known as **Daco-Romanian** in comparative linguistics to help distinguish it from other Romanian languages ([Aromanian](https://en.wikipedia.org/wiki/Aromanian_language), [Istro-Romanian](https://en.wikipedia.org/wiki/Istro-Romanian_language), [Megleno-Romanian](https://en.wikipedia.org/wiki/Megleno-Romanian_language)).
+- Family: [Balkan Romance](https://en.wikipedia.org/wiki/Balkan_Romance_languages) < [Eastern Romance](https://en.wikipedia.org/wiki/Eastern_Romance_languages) < [Romance](https://en.wikipedia.org/wiki/Romance_languages) < [Italic](https://en.wikipedia.org/wiki/Italic_languages) < † [Italo-Celtic](https://en.wikipedia.org/wiki/Italo-Celtic) < [Italic](https://en.wikipedia.org/wiki/Italic_languages) < [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages)
+- Ethnicity: [Romanians](https://en.wikipedia.org/wiki/Romanians), [Moldovans](https://en.wikipedia.org/wiki/Moldovans)
+- Native speakers: ~26 million, of which 19 million are in Romania[**¹**](#references)
+
+† - The Italo-Celtic grouping of the [Italic](https://en.wikipedia.org/wiki/Italic_languages) and [Celtic](https://en.wikipedia.org/wiki/Celtic_languages) languages is disputed on the basis of disagreement on the causes of similarities between these two branches.
+
+## References
+
+1 - https://www.worldometers.info/world-population/romania-population/
