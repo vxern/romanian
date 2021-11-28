@@ -24,7 +24,10 @@ I invite everybody and anybody to contribute to his and my own repository, and t
     - [Grammar](#grammar)
   - [YouTube Channels](#youtube-channels)
   - [Blogs and Magazines](#blogs-and-magazines)
-  - [Courses](#courses)
+  - [Courses and Lessons](#courses-and-lessons)
+  - [Directories and Collections](#directories-and-collections)
+  - [Notes](#notes)
+  - [Tools](#tools)
   - [Dictionaries](#dictionaries)
     - [Monolingual](#monolingual)
     - [Bilingual](#bilingual)
@@ -97,6 +100,40 @@ This section contains information about the Romanian language, as well as links 
   - 🇬🇧 [QuickRomanian](https://www.youtube.com/user/QuickRomanian/videos) - Thematically categorised lessons in the Romanian language, teaching vocabulary in various situations, such as 'In a hotel', 'In a taxi' or 'In a bar'. Furthermore, the channel also has lessons of Romanian grammar and word morphology.
   - 🇷🇴 [Florentin - Profu' de Română](https://www.youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about) ('Florentin - Teacher of Romanian') - Videos in Romanian about Romanian, in a quiz-like format with videos presenting frequent mistakes in Romanian as well as tests. – Led by a Romanian teacher by the name of Florentin Gheorghe.
 
+- ### Blogs and Magazines
+
+  <!--This section needs a description.-->
+
+  - 🇷🇴🇬🇧 [Diacronia](https://diacronia.ro/) - An online, bilingual, open-access, peer-reviewed journal of diachronic linguistics.
+
+- ### Courses and Lessons
+
+  <!--This section needs a description.-->
+
+  - 🇬🇧 [Simple Romanian](https://simpleromanian.com/) - A website created by a simple Romanian, featuring dozens of lessons aiming to promote authentic language taken straight from Romanian streets.
+  - 🇬🇧 [Romanian Reference Grammar](https://www.fsi-language-courses.org/languages/Romanian/FSI%20-%20Romanian%20Reference%20Grammar%20-%20Student%20Text.pdf) - Prepared by Christina N. Hoffman, the Romanian Reference Grammar is a book created to explain Romanian grammar in an digestable way.
+
+- ### Directories and Collections
+
+  <!--This section needs a description.-->
+  
+  - 🇬🇧 [RomanianVoice](https://www.romanianvoice.com/) - A repository with cultural information about Romania with poetry, music, humour, theatre pieces, as well as banknotes and passports.
+  - 🇬🇧 [ZeroToHero](https://www.zerotohero.ca/en/ro/) - A directory of Romanian videos, TV shows, music, live TV, and a tool for reading Romanian with dynamic translations.
+
+- ### Notes
+
+  <!--This section needs a description.-->
+  
+  - 🇬🇧 [MrMeloman's Notes](https://github.com/mrmeloman/romanian/) - A collection of schemes, lists and other materials made while studying Romanian.
+
+- ### Tools
+
+  <!--This section needs a description.-->
+
+  - 🇬🇧 [Forvo](https://forvo.com/languages/ro/) - A pronunciation dictionary featuring over 10,000 pronunciations by native speakers of Romanian words.
+  - 🇷🇴 [Pluralul](https://pluralul.ro/) - A tool to check the plural of any Romanian noun.
+  - 🇬🇧 [Readlang](https://readlang.com/ro/library) - Read texts in Romanian in a distraction-free environment with one-click word translations. After reading, review your new vocabulary with spaced-repetition flashcards.
+
 - ### Dictionaries
 
   <!--This section needs a description.-->
@@ -117,7 +154,7 @@ This section contains information about the Romanian language, as well as links 
 
 <!--This section needs a description.-->
 
-  - 🇷🇴🇺🇳 [DeepL](https://www.deepl.com/translator) - An astoundingly accurate neural machine translation service. – Uses English as a mediator, therefore translations are most accurate for English-Romanian and vice-versa.
+  - 🇷🇴🇺🇳 [DeepL](https://deepl.com/translator) - An astoundingly accurate neural machine translation service. – Uses English as a mediator, therefore translations are most accurate for English-Romanian and vice-versa.
 
 ## References
 
