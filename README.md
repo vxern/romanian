@@ -132,6 +132,7 @@ This section contains information about the Romanian language, as well as links 
 
   - 🇬🇧 [Forvo](https://forvo.com/languages/ro/) - A pronunciation dictionary featuring over 10,000 pronunciations by native speakers of Romanian words.
   - 🇷🇴 [Pluralul](https://pluralul.ro/) - A tool to check the plural of any Romanian noun.
+  - 🇷🇴 [Conjugare](https://conjugare.ro/) - A reliable verb conjugator. Enter any form of the verb to get the conjugation table for many moods and tenses. – (!) Does not conjugate for tenses in the presumptive mood.
   - 🇬🇧 [Readlang](https://readlang.com/ro/library) - Read texts in Romanian in a distraction-free environment with one-click word translations. After reading, review your new vocabulary with spaced-repetition flashcards.
 
 - ### Dictionaries
@@ -149,6 +150,7 @@ This section contains information about the Romanian language, as well as links 
   - #### Multilingual
 
     - 🇷🇴🇺🇳 [Glosbe](https://glosbe.com/en/ro) - A many-to-many word and translation look-up dictionary which allows users to translate words from their native language to Romanian and vice-versa. – Contains 120,000 phrases and 52,000,000 examples. 
+    - 🇷🇴🇺🇳 [Reverso Context](https://context.reverso.net/translation/) - A similar project to Glosbe; it's less open but the context-based translation of phrases is pretty accurate.
 
 - ### Translators
 
