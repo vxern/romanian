@@ -23,6 +23,8 @@ I invite everybody and anybody to contribute to his and my own repository, and t
   - [Guides](#guides)
     - [Grammar](#grammar)
   - [YouTube Channels](#youtube-channels)
+  - [Communities](#communities)
+    - [Discord Servers](#discord-servers)
   - [Blogs and Magazines](#blogs-and-magazines)
   - [Courses and Lessons](#courses-and-lessons)
   - [Directories and Collections](#directories-and-collections)
@@ -95,10 +97,19 @@ This section contains information about the Romanian language, as well as links 
   <!--This section needs a description.-->
 
   - 🇬🇧 [Learn Romanian With Nico](https://www.youtube.com/c/LearnRomanianWithNico) - [Nico(leta)](https://learnromanianwithnico.com/index.php/about/) is a passionate and enthusiastic Romanian teacher and author of several instruction manuals for studying Romanian as a foreign language. – Her channel features over 200 videos about the Romanian language mostly for beginners and intermediate learners, but occassionally also for advanced speakers of the language.
+  - 🇬🇧 [Learn Romanian With Vlad](https://www.youtube.com/c/LearnRomanianwithVlad/) - Phrases, pronunciation, lessons about various topics and more can be found on the channel of [Vlad Buculei](https://medium.com/@vladbuculei). Although the channel has over 100 videos, only about half of them are about the Romanian language.
   - 🇬🇧 [Romanian With Gia](https://www.youtube.com/c/RomanianWithGia) - A channel dedicated to the teaching of the Romanian language and culture, hosted by [Gia Manolea](https://www.instagram.com/RomanianWithGia/) - an online Romanian tutor.
   - 🇬🇧 [Romanian Hub](https://www.youtube.com/c/RomanianHub) - Led by [Voicu Mihnea Simandan](https://www.amazon.com/Voicu-Mihnea-Simandan/e/B00BXG95N8), RomanianHub is a language-learning portal which provides fun and informative videos about the Romanian language, spanning topics such as phonetics, grammar, conversation, vocabulary, idioms, etc. – Teaches Romanian in different video formats; vlogs, flip charts, poetry and music. – Creates videos about Romania's history and geography.
   - 🇬🇧 [QuickRomanian](https://www.youtube.com/user/QuickRomanian/videos) - Thematically categorised lessons in the Romanian language, teaching vocabulary in various situations, such as 'In a hotel', 'In a taxi' or 'In a bar'. Furthermore, the channel also has lessons of Romanian grammar and word morphology.
   - 🇷🇴 [Florentin - Profu' de Română](https://www.youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about) ('Florentin - Teacher of Romanian') - Videos in Romanian about Romanian, in a quiz-like format with videos presenting frequent mistakes in Romanian as well as tests. – Led by a Romanian teacher by the name of Florentin Gheorghe.
+
+- ### Communities
+
+  <!--This section needs a description.-->
+
+  - #### Discord Servers
+
+    - [Learn Romanian](https://discord.gg/kBj3a7n) - The largest server on Discord dedicated to the study of the Romanian language.
 
 - ### Blogs and Magazines
 
