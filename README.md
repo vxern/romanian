@@ -152,7 +152,7 @@ This section contains information about the Romanian language, as well as links 
     - 🇬🇧 [QuickRomanian](https://youtube.com/user/QuickRomanian) - Thematically categorised lessons in the Romanian language, teaching vocabulary in various situations, such as 'In a hotel', 'In a taxi' or 'In a bar'. Furthermore, the channel also has lessons of Romanian grammar and word morphology.
     - 🇬🇧 [Laura Elena](https://youtube.com/channel/UCCewnSVum22mc9dz2zbLsgg) - Lessons of the Romanian language in a step-like format, with each lesson marking a step in achieving fluency.
     - 🇷🇴 [Florentin - Profu' de Română](https://youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about) ('Florentin - Teacher of Romanian') - Videos in Romanian about Romanian, in a quiz-like format with videos presenting frequent mistakes in Romanian as well as tests. – Led by a Romanian teacher by the name of Florentin Gheorghe.
-    - 🇷🇴 (Tiago Aici)[https://youtube.com/channel/UCx5NcdRbMaidPux2NOrhBlg) ('Tiago Here') - Videos about Romania and the Romanian language from the perspective of a Brazilian and fellow learner living in the country.
+    - 🇷🇴 [Tiago Aici](https://youtube.com/channel/UCx5NcdRbMaidPux2NOrhBlg) ('Tiago Here') - Videos about Romania and the Romanian language from the perspective of a Brazilian and fellow learner living in the country.
 
   - #### Playlists
 
