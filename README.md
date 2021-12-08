@@ -224,7 +224,7 @@ This section contains information about the Romanian language, as well as links 
 
 - ### Translators
 
-<!--This section needs a description.-->
+  <!--This section needs a description.-->
 
   - 🇷🇴🇺🇳 [DeepL](https://deepl.com/translator) - An astoundingly accurate neural machine translation service. – Uses English as a mediator, therefore translations are most accurate for English-Romanian and vice-versa.
 
