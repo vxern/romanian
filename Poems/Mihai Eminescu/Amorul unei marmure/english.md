@@ -10,7 +10,7 @@ Why am I not Satan, why am I not God?\
 To destroy a world that tears in silence,\
 My shattered soul.
 
-A desert's lion bellows his rage, running,\
+A lion bellows his rage to the desert, running,\
 An ocean inebriates itself on the winds' game,\
 And the clouds tell their bellowing pain in thunder,\
 The thoughts of fire.
