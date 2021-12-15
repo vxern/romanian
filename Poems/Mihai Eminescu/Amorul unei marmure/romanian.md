@@ -31,7 +31,7 @@ Nimic decît o rază din fața ta senină,\
 Din ochiul tău senin.
 
 Și te iubesc, copilă, cum repedea junie\
-Iubește-n ochi de flacări al zilelor noroc,\
+Iubește-n ochi de flacări a zilelor noroc,\
 Iubesc precum iubește pe-o albă vijelie\
 Un ocean de foc.
 
