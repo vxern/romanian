@@ -1,7 +1,7 @@
 # Adio
 
 De-acuma nu te-oi mai vedea,\
-Rămâi, rămâi, cu bine!\
+Rămîi, rămîi, cu bine!\
 Mă voi feri în calea mea\
 De tine.
 
@@ -12,20 +12,20 @@ Mă lasă.
 
 Căci nu mai am de obicei\
 Ca-n zilele acele,\
-Să mă îmbăt şi de scântei\
+Să mă îmbăt și de scîntei\
 Din stele,
 
-Când degerând atâtea dăţi,\
+Cînd degerînd atîtea dăți,\
 Eu mă uitam prin ramuri\
-Şi aşteptam să te arăţi\
+Și așteptam să te arăți\
 La geamuri.
 
-O, cât eram de fericit\
+O, cît eram de fericit\
 Să mergem împreună,\
-Sub acel farmec liniştit\
+Sub acel farmec liniștit\
 De lună!
 
-Şi când în taină mă rugam\
+Și cînd în taină mă rugam\
 Ca noaptea-n loc să steie,\
 În veci alături să te am,\
 Femeie!
@@ -40,12 +40,12 @@ Nimicurile-aceste,\
 Îmi pare-o veche, de demult\
 Poveste.
 
-Şi dacă luna bate-n lunci\
-Şi tremură pe lacuri,\
-Totuşi îmi pare că de-atunci\
+Și dacă luna bate-n lunci\
+Și tremură pe lacuri,\
+Totuși îmi pare că de-atunci\
 Sunt veacuri.
 
-Cu ochii serei cei dentâi\
+Cu ochii serei cei dentîi\
 Eu n-o voi mai privi-o...\
-De-aceea-n urma mea rămâi -\
+De-aceea-n urma mea rămîi -\
 Adio!
