@@ -1,4 +1,4 @@
-# So delicate
+# So delicate...
 
 So delicate, you resemble\
 A white cherry flower,\
