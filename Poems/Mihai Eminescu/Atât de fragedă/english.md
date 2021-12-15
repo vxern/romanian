@@ -11,7 +11,7 @@ And from the crown of head to bottom of toe\
 You float like a sound dream.
 
 From the folds of your long dress\
-You were beaming like marble in place\
+You were beaming like marble in place –\
 My soul hangs on to the eyes\
 Full of tears and fortune.
 
