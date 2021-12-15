@@ -1,56 +1,56 @@
 # Amorul unei marmure
 
-Oştirile-i alungă în spaimă îngheţată,\
+Oștirile-i alungă în spaimă înghețată,\
 Cu sufletu-n ruină, un rege-asirian,\
-Cum stâncelor aruncă durerea-i înspumată\
-Gemândul uragan.
+Cum stîncelor aruncă durerea-i înspumată\
+Gemîndul uragan.
 
 De ce nu sunt un rege să sfarm cu-a mea durere,\
 De ce nu sunt Satana, de ce nu-s Dumnezeu,\
-Să fac să rump-o lume ce sfâşie-n tăcere\
+Să fac să rump o lume ce sfîșie-n tăcere\
 Zdrobit sufletul meu.
 
 Un leu pustiei rage turbarea lui fugindă,\
-Un ocean se-mbată pe-al vânturilor joc,\
-Şi norii-şi spun în tunet durerea lor mugindă,\
-Gândirile de foc.
+Un ocean se-mbată pe-al vînturilor joc,\
+Și norii-și spun în tunet durerea lor mugindă,\
+Gîndirile de foc.
 
 Eu singur n-am cui spune cumplita mea durere,\
 Eu singur n-am cui spune nebunul meu amor,\
-Căci mie mi-a dat soarta amara mângâiere\
+Căci mie mi-a dat soarta amara mîngîiere\
 O piatră să ador.
 
-Murindului speranţa, turbării răzbunarea,\
-Profetului blestemul, credinţei Dumnezeu,\
+Murindului speranța, turbării răzbunarea,\
+Profetului blestemul, credinței Dumnezeu,\
 La sinucid o umbră ce-i sperie desperarea,\
 Nimic, nimica eu.
 
-Nimica, doar icoana-ţi, care mă învenină,\
-Nimic, doar suvenirea surâsului tău lin,\
-Nimic decât o rază din faţa ta senină,\
+Nimica, doar icoana-ți, care mă învenină,\
+Nimic, doar suvenirea surîsului tău lin,\
+Nimic decît o rază din fața ta senină,\
 Din ochiul tău senin.
 
-Şi te iubesc, copilă, cum repedea junie\
-Iubeşte-n ochi de flacări al zilelor noroc,\
-Iubesc precum iubeşte pe-o albă vijelie\
+Și te iubesc, copilă, cum repedea junie\
+Iubește-n ochi de flacări al zilelor noroc,\
+Iubesc precum iubește pe-o albă vijelie\
 Un ocean de foc.
 
 Din ochi de-ar soarbe geniu slăbita mea privire,\
-De-ar tremura la sânu-mi gingaşul tău mijloc,\
+De-ar tremura la sînu-mi gingașul tău mijloc,\
 Ai pune pe-a mea frunte în vise de mărire\
 Un diadem de foc.
 
-Şi-aş pune soarta lumii pe buza-ţi purpurie,\
-Aş pune lege lumii râzândul tău delir,\
-Aş face al tău zâmbet un secol de orgie,\
-Şi lacrimile-ţi mir.
+Și-aș pune soarta lumii pe buza-ți purpurie,\
+Aș pune lege lumii rîzîndul tău delir,\
+Aș face al tău zîmbet un secol de orgie,\
+Și lacrimile-ți mir.
 
 Căci te iubesc, copilă, ca zeul nemurirea,\
 Ca preotul altarul, ca spaima un azil;\
-Ca sceptrul mâna blândă, ca vulturul mărirea,\
+Ca sceptrul mîna blîndă, ca vulturul mărirea,\
 Ca visul pe-un copil.
 
-Şi pasu-n urma-ţi zboară c-o tainică mânie,\
+Și pasu-n urma-ți zboară c-o tainică mînie,\
 Ca un smintit ce cată cu ochiu-ngălbenit,\
-Cu fruntea-nvineţită, cu faţa cenuşie\
+Cu fruntea-nvinețită, cu fața cenușie\
 Icoana ce-a iubit.
