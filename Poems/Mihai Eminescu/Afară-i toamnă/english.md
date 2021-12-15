@@ -10,7 +10,7 @@ You would not like anyone at your door knocking;\
 But even better would be, when the outside is sleety,\
 To remain dreaming of fire, dozing off into sleep.
 
-Besides, this way I look out from my train of thought,\
+Besides, this way I look out from my stool on thoughts,\
 I dream of the fairy tale of Old Dokia,\
 Around me the fog grows step by step;
 

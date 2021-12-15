@@ -1,19 +1,19 @@
 # Afară-i toamnă
 
-Afară-i toamnă, frunza 'mprăştiată,\
-Iar vântul svârlă 'n geamuri grele picuri;\
-Şi tu citeşti scrisori din roase plicuri\
-Şi într-un ceas gândeşti la viaţa toată.
+Afară-i toamnă, frunza-mprăștiată,\
+Iar vîntul zvîrle-n geamuri grele picuri;\
+Ci tu citești scrisori din roase plicuri\
+Și într-un ceas gîndești la viața toată.
 
-Pierzându-ţi timpul tău cu dulci nimicuri,\
-N-ai vrea ca nimeni în uşa ta să bată;\
-Dar şi mai bine-i, când afară-i sloată,\
-Să stai visând la foc, de somn să picuri.
+Pierzîndu-ți timpul tău cu dulci nimicuri,\
+N-ai vrea ca nime-n ușa ta să bată;\
+Dar și mai bine-i, cînd afară-i zloată,\
+Să stai visînd la foc, de somn să picuri.
 
-Şi eu astfel mă uit din jet de gânduri,\
-Visez la basmul vechiu al zânei Dochii,\
-În juru-mi ceaţa creşte rânduri-rânduri;
+Și eu astfel mă uit din jeț de gînduri,\
+Visez la basmul vechi al zînei Dochii,\
+În juru-mi ceața crește rînduri, rînduri;
 
-De odat-aud foşnirea unei rochii,\
-Un moale pas abia atins de scânduri...\
-Iar mâni subţiri şi reci mi-acoper ochii.
+Deodat' aud foșnirea unei rochii,\
+Un moale pas abia atins de scînduri...\
+Iar mîni subțiri și reci mi-acopăr ochii.
