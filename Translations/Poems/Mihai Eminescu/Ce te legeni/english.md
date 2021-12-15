@@ -23,5 +23,5 @@ And they pass like moments,\
 Shaking [their] wings,\
 And they leave me desolate,\
 Withered and numb\
-And with my singular longing,\
-I may as well repeat myself with it.
+And alone with my longing,\
+To the point that it is the only thing I associate with!
