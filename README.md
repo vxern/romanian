@@ -333,10 +333,14 @@ to resources.
 
 - ### Phrasebooks
 
+  <!--This section needs a description.-->
+
   - [Wikitravel Phrasebook](https://wikitravel.org/en/Romanian_phrasebook) - A
     rich phrasebook with many essential words and phrases.
 
-  ### Grammars
+- ### Grammars
+
+  <!--This section needs a description.-->
 
   - [Romanian Reference Grammar](https://fsi-language-courses.org/languages/Romanian/FSI%20-%20Romanian%20Reference%20Grammar%20-%20Student%20Text.pdf) -
     Prepared by Christina N. Hoffman, the Romanian Reference Grammar is a book
