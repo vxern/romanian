@@ -1,15 +1,15 @@
-# When Ștefan was to die
+# When Stephen was to die
 
 I
 
-When Ștefan was to die,\
+When Stephen was to die,\
 There was much grief in the country:\
 How many arms in despair\
 Weren't risen towards the heaven?
 
 How many sacrifices at the altars\
 How much myrrh and incense\
-So that the swift Ștefan\
+So that the swift Stephen\
 Alive and sound would remain!
 
 It seemed that not even the soil\
@@ -24,7 +24,7 @@ Of the one that proclaimed the word...
 
 II
 
-When Ștefan was to die,\
+When Stephen was to die,\
 There was much grief in the country:\
 Who would be able to say\
 How many hearts bled?
@@ -51,7 +51,7 @@ Stay at his bed of agonies...
 
 III
 
-When Ștefan was to die,\
+When Stephen was to die,\
 There was much grief in the country:\
 At his bed of agonies\
 All the boyars gathered.
@@ -73,7 +73,7 @@ Smiting his views...
 
 IV
 
-So does the dream exist, or is it [even] alive?\
+Is it still a dream, or is it real?\
 From Olt, rising, seeing\
 A lofty vulture that stretches\
 Its wings - and adumbrates
@@ -96,21 +96,21 @@ He goes afront them astraddle...
 Songs of victory\
 Grow and fill the air entirely -\
 And smiling with his soul content,\
-Leader Ștefan has given up the ghost!...
+Leader Stephen has given up the ghost!...
 
 V
 
 But with the knell full of grief\
 Thousands of bells announce:\
-"Ștefan the leader of Moldova,\
-Ștefan the leader is no more!"
+"Stephen the leader of Moldova,\
+Stephen the leader is no more!"
 
 Sad is the monastery of Putna,\
 The open gates await\
 The glowing convoy which comes\
 And towards them approaches slowly.
 
-It's Ștefan. Today he crosses\
+It's Stephen. Today he crosses\
 The latter journey through the country,\
 But there where he steps now,\
 On a great day of summer,
@@ -124,7 +124,7 @@ Epilogue
 
 Four centuries of pain\
 Have passed - And in deep night\
-Ștefan sleeps, but even today\
+Stephen sleeps, but even today\
 The entire country mourns him still.
 
 And the woods will mourn him for ages\
@@ -148,6 +148,6 @@ Horses, in a flood of blood,\
 Until the crests will drown...
 
 Over us all then will glide\
-The soul of Ștefan the Great -\
+The soul of Stephen the Great -\
 And we will break any chains,\
 We will crush any limits!
