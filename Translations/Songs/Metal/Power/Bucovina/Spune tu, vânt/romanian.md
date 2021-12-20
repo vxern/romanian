@@ -8,7 +8,7 @@ Pe creste iernite în ape-oglindite, poteci neumblate să ducă departe.
 
 Cum zbori tu ca gândul și-nconjuri pământul, şi treci peste mări, pustiuri și
 zări\
-Nu-mi afli pierit, dorul cernit, cu dorul în gând nu-mi aflu mormânt.
+Nu-mi afli pierit dorul cernit, cu dorul în gând nu-mi aflu mormânt.
 
 Spune tu, vânt înghețat, pe unde ai fost, pe unde-ai umblat\
 Prin codrii goi, pe munți și pe văi, pâraie-nghețate sub sloiuri turbate.
