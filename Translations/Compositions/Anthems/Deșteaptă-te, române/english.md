@@ -1,6 +1,6 @@
 # Awaken thee, Romanian!
 
-Awaken thee, Romanian, from the sleep of death,\
+Awaken thee, Romanian, from the deathly sleep,\
 In which the barbaric tyrants have sunken you!\
 Now or never carve yourself a different fate,\
 At which will bow even your cruel enemies.
