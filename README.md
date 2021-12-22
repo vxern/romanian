@@ -286,8 +286,7 @@ to resources.
     - 🇬🇧 [Laura Elena](https://youtube.com/channel/UCCewnSVum22mc9dz2zbLsgg) -
       Lessons of the Romanian language in a step-like format, with each lesson
       marking a step in achieving fluency.
-    - 🇷🇴
-      [Florentin - Profu' de Română](https://youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about)
+    - 🇷🇴 [Florentin - Profu' de Română](https://youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about)
       ('Florentin - Teacher of Romanian') - Videos in Romanian about Romanian,
       in a quiz-like format with videos presenting frequent mistakes in Romanian
       as well as tests. – Led by a Romanian teacher by the name of Florentin
@@ -382,6 +381,9 @@ to resources.
   - 🇬🇧 [Readlang](https://readlang.com/ro/library) - Read texts in Romanian in a
     distraction-free environment with one-click word translations. After
     reading, review your new vocabulary with spaced-repetition flashcards.
+  - 🇷🇴 [CuvinteCare](https://cuvintecare.ro) ('WordsThat') - A tool for finding Romanian words
+    that start with, end with, contain or are anagrams of a given set of
+    letters.
 
 - ### Dictionaries
 
