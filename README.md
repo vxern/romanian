@@ -31,6 +31,7 @@ to create one for other languages which do not yet have such a repository.
   - [Interactive Resources](#interactive-resources)
     - [Websites](#websites)
     - [Applications and Games](#applications-and-games)
+  - [YouTube](#youtube)
   - [Guides](#guides)
     - [Grammar](#grammar)
   - [YouTube Channels](#youtube-channels)
