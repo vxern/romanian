@@ -34,7 +34,6 @@ to create one for other languages which do not yet have such a repository.
   - [YouTube](#youtube)
   - [Guides](#guides)
     - [Grammar](#grammar)
-  - [YouTube Channels](#youtube-channels)
   - [Communities](#communities)
     - [Discord Servers](#discord-servers)
   - [Blogs and Magazines](#blogs-and-magazines)
