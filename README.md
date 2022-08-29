@@ -40,6 +40,7 @@ to create one for other languages which do not yet have such a repository.
   - [Courses and Lessons](#courses-and-lessons)
   - [Phrasebooks](#phrasebooks)
   - [Grammars](#grammars)
+  - [Books](#books)
   - [Directories and Collections](#directories-and-collections)
   - [Notes](#notes)
   - [Tools](#tools)
@@ -287,7 +288,8 @@ to resources.
     - 🇬🇧 [Laura Elena](https://youtube.com/channel/UCCewnSVum22mc9dz2zbLsgg) -
       Lessons of the Romanian language in a step-like format, with each lesson
       marking a step in achieving fluency.
-    - 🇷🇴 [Florentin - Profu' de Română](https://youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about)
+    - 🇷🇴
+      [Florentin - Profu' de Română](https://youtube.com/channel/UCP49mMjJKSOx-xYMhFuLUkA/about)
       ('Florentin - Teacher of Romanian') - Videos in Romanian about Romanian,
       in a quiz-like format with videos presenting frequent mistakes in Romanian
       as well as tests. – Led by a Romanian teacher by the name of Florentin
@@ -346,6 +348,15 @@ to resources.
     Prepared by Christina N. Hoffman, the Romanian Reference Grammar is a book
     created to explain Romanian grammar in an digestable way.
 
+- ### Books
+
+  <!--This section needs a description.-->
+
+  - [Biblioteca Digitală](https://scoala.bibliotecapemobil.ro/biblioteca.php) -
+    A digital library of books destined for students.
+  - [Grupul Humanitas(https://humanitas.ro/cauta/gratuit) - Books available for
+    free on the Humanitas publishing house website.
+
 - ### Directories and Collections
 
   <!--This section needs a description.-->
@@ -382,9 +393,11 @@ to resources.
   - 🇬🇧 [Readlang](https://readlang.com/ro/library) - Read texts in Romanian in a
     distraction-free environment with one-click word translations. After
     reading, review your new vocabulary with spaced-repetition flashcards.
-  - 🇷🇴 [CuvinteCare](https://cuvintecare.ro) ('WordsThat') - A tool for finding Romanian words
-    that start with, end with, contain or are anagrams of a given set of
-    letters.
+  - 🇷🇴 [CuvinteCare](https://cuvintecare.ro) ('WordsThat') - A tool for finding
+    Romanian words that start with, end with, contain or are anagrams of a given
+    set of letters.
+  - 🇷🇴 [Cum Se Scrie](https://cum-se-scrie.ro) ('How is it written') - A tool
+    for finding out the subtle differences between certain phrases and words.
 
 - ### Dictionaries
 
@@ -426,7 +439,7 @@ to resources.
 - ### Other
 
   <!--This section needs a description.-->
-  
+
   - 🇷🇴 [Dicționar Urban](https://dictionar-urban.ro) - A Romanian equivalent of
     the [Urban Dictionary](https://urbandictionary.com).
 
