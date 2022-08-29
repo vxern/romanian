@@ -354,7 +354,7 @@ to resources.
 
   - [Biblioteca Digitală](https://scoala.bibliotecapemobil.ro/biblioteca.php) -
     A digital library of books destined for students.
-  - [Grupul Humanitas(https://humanitas.ro/cauta/gratuit) - Books available for
+  - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
     free on the Humanitas publishing house website.
 
 - ### Directories and Collections
