@@ -352,6 +352,8 @@ to resources.
 
   <!--This section needs a description.-->
 
+  - [Wikisource](https://ro.wikisource.org/wiki/Pagina_principală) - A repository
+    of free literature.
   - [Biblioteca Digitală](https://scoala.bibliotecapemobil.ro/biblioteca.php) -
     A digital library of books destined for students.
   - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
