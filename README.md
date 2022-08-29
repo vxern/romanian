@@ -47,7 +47,8 @@ to create one for other languages which do not yet have such a repository.
     - [Monolingual](#monolingual)
     - [Bilingual](#bilingual)
     - [Multilingual](#multilingual)
-  - [Translators](#translators)
+  - [Translation](#translation)
+  - [Other](#other)
 - [References](#references)
 
 ## Native Countries
@@ -414,13 +415,20 @@ to resources.
       similar project to Glosbe; it's less open but the context-based
       translation of phrases is pretty accurate.
 
-- ### Translators
+- ### Translation
 
   <!--This section needs a description.-->
 
   - 🇷🇴🇺🇳 [DeepL](https://deepl.com/translator) - An astoundingly accurate neural
     machine translation service. – Uses English as a mediator, therefore
     translations are most accurate for English-Romanian and vice-versa.
+
+- ### Other
+
+  <!--This section needs a description.-->
+  
+  - 🇷🇴 [Dicționar Urban](https://dictionar-urban.ro) - A Romanian equivalent of
+    the [Urban Dictionary](https://urbandictionary.com).
 
 ## References
 
