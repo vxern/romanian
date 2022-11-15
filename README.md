@@ -332,6 +332,9 @@ to resources.
   - [Romanian Weekly Lessons](http://rolang.ro/Romanian-weekly-lessons.php) -
     Lessons with audio, prepared by ROLANG school which specialises in teaching
     the Romanian language to international students.
+  - [Easy Romanian](https://www.easyromanian.com) -
+    A work of love, the Easy Romanian online course features dialogs, vocabulary builder, grammar, audio created
+    by Romanians in Romania.
 
 - ### Phrasebooks
 
