@@ -155,12 +155,13 @@ to resources.
 
   <!--This section needs a description.-->
 
-  - ✝️⚔️🇷🇴 [Romanian vs Latin](https://youtube.com/watch?v=FSwRoNtXdsE)
-  - 🇷🇴⚔️✝️ [Latin vs Romanian](https://youtube.com/watch?v=d5CYM0YSDR4)
-  - 🇷🇴⚔️🇫🇷🇪🇸
-    [Romanian vs Spanish, French](https://youtube.com/watch?v=xmpibOOz1qA)
-  - 🇷🇴⚔️🇧🇷🇨🇴🇮🇹
+  - ✝️ [Romanian vs Latin](https://youtube.com/watch?v=FSwRoNtXdsE) 🇷🇴
+  - 🇷🇴 [Latin vs Romanian](https://youtube.com/watch?v=d5CYM0YSDR4) ✝️
+  - 🇷🇴 [Romanian vs Spanish, French](https://youtube.com/watch?v=xmpibOOz1qA) 🇫🇷
+    🇪🇸
+  - 🇷🇴
     [Romanian vs Spanish (Colombia), Portuguese (Brazil), Italian](https://youtube.com/watch?v=iuo4MmYimHw)
+    🇧🇷 🇨🇴 🇮🇹
     <!-- This section was generated using the below JavaScript code for https://youtube.com/channel/UCsXnvpQfSAP-whL2CrcNTtg/videos:
     ```
     const relevantExpression = new RegExp("^Romance Languages? Comparison ?: [a-zA-Z0-9 ]+$", 'i');
@@ -178,7 +179,7 @@ to resources.
     ```
     -->
 
-  - ✝️⚔️🇫🇷🇮🇹🇵🇹🇷🇴🇪🇸 Latin vs Romance Languages -
+  - ✝️ Latin vs Romance Languages 🇫🇷 🇮🇹 🇵🇹 🇷🇴 🇪🇸 -
     [Adjectives](https://youtube.com/watch?v=t2GAHvKKmoE) |
     [Adjectives 2](https://youtube.com/watch?v=2l-QWNP4XXI) |
     [Adverbs](https://youtube.com/watch?v=oAZPgYAv_qY) |
