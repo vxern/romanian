@@ -48,6 +48,7 @@ to create one for other languages which do not yet have such a repository.
 - [Media](#media)
   - [Channels](#channels)
   - [Playlists](#playlists)
+  - [Podcasts](#podcasts)
 - [Communities](#communities)
   - [Discord](#discord)
 - [Tools](#tools)
@@ -437,6 +438,28 @@ to resources.
   - [Easy Romanian](https://youtube.com/watch?v=yhFsqUx2T-g&list=PLSGlhFQUEl3jtvuXulhZRYDiYefnBYzGh&index=6) -
     A series comprising short videos with a native speaker of Romanian in
     public, speaking to passersby with Romanian and English subtitles.
+
+- ### Podcasts
+
+  <!--This section needs a description.-->
+
+  - [Mind Architect](https://open.spotify.com/show/2i93Ub9rGWTNVyEg0rsxPb) -
+    Neuroscience and psychology for the layman. Relationships and personal life
+    are the main topics discussed.
+  - [Fain și Simplu cu Mihai Morar](https://open.spotify.com/show/059sh395dgSCd18NBafuEw) -
+    Mihai Morar, a former TV show and radio host, interviews various (mostly
+    Romanian and Moldovan) celebrities and public figures.
+  - [Cronicari Digitali](https://open.spotify.com/show/3Lw8ovNWJctunHxJU1ACim) -
+    Culture, technology, access to education and gastronomy.
+  - [On The Record](https://recorder.ro/category/podcast/) - Investigative
+    journalism; addresses issues in Romania and the rest of the world.
+  - [Obiceiul Pământului](https://open.spotify.com/show/1vWuQoa7tnyxo3PR0W7r0l) -
+    Inspirational real-life stories addressing Roma history, including the
+    history of enslavement and discrimination in Romania.
+  - [Pe Bune](https://open.spotify.com/show/5lOFFsKQXZ119wxntH13fe) - Life
+    stories of creative people in Romania.
+  - [Podcastul de istorie](https://open.spotify.com/show/6pMyYscyTgFpflhMbqYge1) -
+    History of Romania and the rest of the world.
 
 ## Communities
 
