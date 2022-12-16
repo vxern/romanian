@@ -162,23 +162,21 @@ to resources.
   - 🇷🇴⚔️🇧🇷🇨🇴🇮🇹
     [Romanian vs Spanish (Colombia), Portuguese (Brazil), Italian](https://youtube.com/watch?v=iuo4MmYimHw)
     <!-- This section was generated using the below JavaScript code for https://youtube.com/channel/UCsXnvpQfSAP-whL2CrcNTtg/videos:
-
-  ```
-  const relevantExpression = new RegExp("^Romance Languages? Comparison ?: [a-zA-Z0-9 ]+$", 'i');
-  const titleNodes = [...document.querySelectorAll("#video-title")];
-  const relevantNodes = titleNodes.filter((node) => !!node.href && relevantExpression.test(node.innerText));
-  const nodeTuples = relevantNodes.map((node) => [node.innerText, node.href]);
-  nodeTuples.forEach((tuple) => {
-    const words = tuple[0].split(":")[1].trim().split();
-    tuple[0] = words.map((word) => word[0].toUpperCase() + word.slice(1)).join();
-    tuple[1] = tuple[1].replace("https://www.", "https://");
-  });
-  const sortedTuples = nodeTuples.sort((a, b) => a[0] < b[0] ? -1 : 1);
-  const hyperlinks = sortedTuples.map((tuple) => `[${tuple[0]}](${tuple[1]})`);
-  console.info(hyperlinks.join(" | "));
-  ```
-
-      -->
+    ```
+    const relevantExpression = new RegExp("^Romance Languages? Comparison ?: [a-zA-Z0-9 ]+$", 'i');
+    const titleNodes = [...document.querySelectorAll("#video-title")];
+    const relevantNodes = titleNodes.filter((node) => !!node.href && relevantExpression.test(node.innerText));
+    const nodeTuples = relevantNodes.map((node) => [node.innerText, node.href]);
+    nodeTuples.forEach((tuple) => {
+      const words = tuple[0].split(":")[1].trim().split();
+      tuple[0] = words.map((word) => word[0].toUpperCase() + word.slice(1)).join();
+      tuple[1] = tuple[1].replace("https://www.", "https://");
+    });
+    const sortedTuples = nodeTuples.sort((a, b) => a[0] < b[0] ? -1 : 1);
+    const hyperlinks = sortedTuples.map((tuple) => `[${tuple[0]}](${tuple[1]})`);
+    console.info(hyperlinks.join(" | "));
+    ```
+    -->
 
   - ✝️⚔️🇫🇷🇮🇹🇵🇹🇷🇴🇪🇸 Latin vs Romance Languages -
     [Adjectives](https://youtube.com/watch?v=t2GAHvKKmoE) |
