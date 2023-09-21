@@ -334,32 +334,38 @@ to resources.
 
     <!--This section needs a description.-->
 
-    - 🇷🇴 [dexonline.ro](https://dexonline.ro/) (**Dicționar Explicativ
+    - [dexonline.ro](https://dexonline.ro/) (**Dicționar Explicativ
       Online** - 'Explanatory Dictionary Online') - The largest collection of
       entries from various Romanian dictionaries. – Features 1,000,000 headword
       entries, word games and daily and monthly word selections.
-    - 🇷🇴 [Dicționar Urban](https://dictionar-urban.ro) - Romanian equivalent of
+    - [Dicționar Urban](https://dictionar-urban.ro) - Romanian equivalent of
       the [Urban Dictionary](https://urbandictionary.com).
 
   - #### Bilingual
 
     <!--This section needs a description.-->
 
-    - 🇷🇴🇬🇧 [Dicționare](http://dictionare.com/) ('Dictionaries') - An
+    - [Bab.la](https://en.bab.la/dictionary/english-romanian)
+    - [Dicționare](http://dictionare.com/) ('Dictionaries') - An
       English-Romanian and Romanian-English dictionary. – Very little additional
       information is available about the website.
-    - 🇷🇴🇬🇧 [Dict.cc](https://enro.dict.cc) - An English-Romanian and vice-versa
-      dictionary.
+    - [Dict.cc](https://enro.dict.cc)
+    - [Dict.com](https://dict.com/Romanian-English)
+    - [Hallo.ro](https://hallo.ro/english-romanian-dictionary/)
+    - [WordReference](https://wordreference.com/enro/)
+    - [LingvoSoft](https://lingvozone.com/main.jsp?do=dictionary&action=setlanguages&language_id_from=23&language_id_to=14&x=23&y=15)
+    - [SensAgent](https://dictionary.sensagent.com/%20/en-ro/)
+    - [TechDico](https://techdico.com/)
 
   - #### Multilingual
 
     <!--This section needs a description.-->
 
-    - 🇷🇴🇺🇳 [Glosbe](https://glosbe.com/en/ro) - A many-to-many word and
+    - [Glosbe](https://glosbe.com/en/ro) - A many-to-many word and
       translation look-up dictionary which allows users to translate words from
       their native language to Romanian and vice-versa. – Contains 120,000
       phrases and 52,000,000 examples.
-    - 🇷🇴🇺🇳 [Reverso Context](https://context.reverso.net/translation/) - A
+    - [Reverso Context](https://context.reverso.net/translation/) - A
       similar project to Glosbe; it's less open but the context-based
       translation of phrases is pretty accurate.
 
@@ -367,12 +373,12 @@ to resources.
 
   <!--This section needs a description.-->
 
+  - [Language Player](https://languageplayer.io/en/ro) - A directory of Romanian videos,
+    TV shows, music, live TV, and a tool for reading Romanian with dynamic
+    translations.
   - [RomanianVoice](https://romanianvoice.com/) - A repository with cultural
     information about Romania with poetry, music, humour, theatre pieces, as
     well as banknotes and passports.
-  - [ZeroToHero](https://zerotohero.ca/en/ro/) - A directory of Romanian videos,
-    TV shows, music, live TV, and a tool for reading Romanian with dynamic
-    translations.
 
 - ### Notes
 
@@ -434,6 +440,11 @@ to resources.
       ('Tiago Here') - Videos about Romania and the Romanian language from the
       perspective of a Brazilian and fellow learner living in the country.
 
+  - #### Children
+
+    - 🇷🇴 [TraLaLa](https://youtube.com/channel/UCfz5rmyvOJK16EBW7ILaahQ)
+    - 🇷🇴 [Zurli](https://www.youtube.com/channel/UCViyABZFmR-ufm6gtbUthXA)
+
   - #### Other topics
 
     - 🇷🇴 [HaiHui în doi](https://youtube.com/@haihuin2) - Channel led by a
@@ -473,6 +484,35 @@ to resources.
     stories of creative people in Romania.
   - [Podcastul de istorie](https://open.spotify.com/show/6pMyYscyTgFpflhMbqYge1) -
     History of Romania and the rest of the world.
+
+- ### News
+
+  <!--This section needs a description.-->
+
+  - [Actualitate](https://actualitate.net/)
+  - [Adevărul](https://adevarul.ro/)
+  - [Cancan](https://cancan.ro/)
+  - [Digi24](https://digi24.ro/stiri/actualitate)
+  - [Evenimentul Zilei](https://evz.ro/)
+  - [HotNews](https://hotnews.ro)
+  - [Libertatea](https://libertatea.ro/stiri)
+  - [Mediafax](https://mediafax.ro/)
+  - [News.ro](https://news.ro/)
+  - [News 24](https://news24.ro/)
+  - [Observator News](https://observatornews.ro/)
+  - [Redacția](https://redactia.ro/)
+  - [România TV](https://romaniatv.net/)
+  - [Sport.ro](https://sport.ro/)
+  - [Știri pe Surse](https://stiripesurse.ro/)
+  - [Știrile Pro TV](https://stirileprotv.ro/)
+  - [Ziar.com](https://ziar.com/)
+  - [Ziare.com](https://ziare.com/)
+
+  - #### Moldova
+
+    - [Noi.md](https://noi.md/md/)
+    - [Publika](https://publika.md/)
+    - [Timpul.md](https://timpul.md/)
 
 ## Communities
 
@@ -514,8 +554,11 @@ to resources.
   <!--This section needs a description.-->
 
   - 🇷🇴🇺🇳 [DeepL](https://deepl.com/translator) - An astoundingly accurate neural
-    machine translation service. – Uses English as a mediator, therefore
-    translations are most accurate for English-Romanian and vice-versa.
+    machine translation service.
+    - Note: DeepL uses English as an intermediary language, therefore translations
+      will be most accurate for the 🇬🇧-🇷🇴 and 🇷🇴-🇬🇧 pairs.
+  - 🇷🇴🇺🇳 [Google Translate](https://translate.google.com/?sl=en&tl=ro&op=translate)
+  - 🇷🇴🇺🇳 [Lingvanex](https://lingvanex.com/demo/)
 
 ## References
 
