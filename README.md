@@ -484,6 +484,8 @@ to resources.
     stories of creative people in Romania.
   - [Podcastul de istorie](https://open.spotify.com/show/6pMyYscyTgFpflhMbqYge1) -
     History of Romania and the rest of the world.
+    -[Learn Romanian Podcast](https://open.spotify.com/show/5conUoh2sxAQjKqURIii2a?si=6e5a373dc6c5468d) -
+    More than 400 episodes to improve your Romanian skills by Camelia.
 
 - ### News
 
