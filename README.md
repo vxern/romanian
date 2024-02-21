@@ -259,6 +259,11 @@ to resources.
   - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
     free on the Humanitas publishing house website.
 
+- ### Textbooks
+
+  <!--This section needs a description.-->
+  - [Manuale.edu.ro](https://manuale.edu.ro) - Romanian language textbooks, useful for advanced users.
+
 - ### Phrasebooks
 
   <!--This section needs a description.-->
