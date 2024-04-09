@@ -129,7 +129,6 @@ to resources.
 
     <!--This section needs a description.-->
 
-    - [The Sound of the Romanian Language](https://youtube.com/watch?v=3rBy6c7UM08)
     - [Romanian: The Forgotten Romance Language](https://youtube.com/watch?v=1xVkRh7mEe0)
     - [Raluca speaking Romanian](https://youtube.com/watch?v=6TiSKGRjYLs)
     - [Romanian Language Learning Tips](https://youtube.com/watch?v=tv7CBZULvyw)
@@ -284,7 +283,7 @@ to resources.
 
   <!--This section needs a description.-->
 
-  - [Simple Romanian](https://simpleromanian.com/) - A website created by a
+  - [Simple Romanian](http://simpleromanian.com/) - A website created by a
     simple Romanian, featuring dozens of lessons aiming to promote authentic
     language taken straight from Romanian streets.
   - [Romanian Weekly Lessons](http://rolang.ro/Romanian-weekly-lessons.php) -
@@ -324,7 +323,7 @@ to resources.
     [game](https://oladaniel.com/games-and-stuff) and
     [font](https://oladaniel.com/fonts) designers specializing in educational
     picture books for children.
-  - 🇷🇴🇺🇳 [Clozemaster](https://clozemaster.com/) - Gamified language learning
+  - 🇷🇴🇺🇳 [Clozemaster](https://www.clozemaster.com/) - Gamified language learning
     through mass exposure to vocabulary in context. – Allows reading and
     learning words as they were written in a sentence. – Features 50+ languages.
 
