@@ -129,7 +129,6 @@ to resources.
 
     <!--This section needs a description.-->
 
-    - [The Sound of the Romanian Language](https://youtube.com/watch?v=GF4zhbIJmA8)
     - [Romanian: The Forgotten Romance Language](https://youtube.com/watch?v=1xVkRh7mEe0)
     - [Raluca speaking Romanian](https://youtube.com/watch?v=6TiSKGRjYLs)
     - [Romanian Language Learning Tips](https://youtube.com/watch?v=tv7CBZULvyw)
