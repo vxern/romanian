@@ -158,9 +158,6 @@ to resources.
   - 🇷🇴 [Latin vs Romanian](https://youtube.com/watch?v=d5CYM0YSDR4) ✝️
   - 🇷🇴 [Romanian vs Spanish, French](https://youtube.com/watch?v=xmpibOOz1qA) 🇫🇷
     🇪🇸
-  - 🇷🇴
-    [Romanian vs Spanish (Colombia), Portuguese (Brazil), Italian](https://youtube.com/watch?v=iuo4MmYimHw)
-    🇧🇷 🇨🇴 🇮🇹
     <!-- This section was generated using the below JavaScript code for https://youtube.com/channel/UCsXnvpQfSAP-whL2CrcNTtg/videos:
     ```
     const relevantExpression = new RegExp("^Romance Languages? Comparison ?: [a-zA-Z0-9 ]+$", 'i');
@@ -253,8 +250,6 @@ to resources.
 
   - [Wikisource](https://ro.wikisource.org/wiki/Pagina_principală) - A
     repository of free literature.
-  - [Biblioteca Digitală](https://scoala.bibliotecapemobil.ro/biblioteca.php) -
-    A digital library of books destined for students.
   - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
     free on the Humanitas publishing house website.
 
@@ -515,10 +510,10 @@ to resources.
   - [Ziar.com](https://ziar.com/)
   - [Ziare.com](https://ziare.com/)
 
-  - #### Moldova
+  #### Moldova
 
     - [Noi.md](https://noi.md/md/)
-    - [Publika](https://publika.md/)
+    - [Publika](https://publika.press/)
     - [Timpul.md](https://timpul.md/)
 
 ## Communities
