@@ -49,6 +49,8 @@ to create one for other languages which do not yet have such a repository.
   - [Channels](#channels)
   - [Playlists](#playlists)
   - [Podcasts](#podcasts)
+  - [News](#news)
+  - [Radio](#radio)
 - [Communities](#communities)
   - [Discord](#discord)
 - [Tools](#tools)
