@@ -15,45 +15,22 @@ to create one for other languages which do not yet have such a repository.
 
 <!--This section needs a description.-->
 
-- [Information](#information)
-  - [Briefing](#briefing)
-    - [Native countries](#native-countries)
-      - [Romania](#romania)
+- [The Romanian Language / Limba Română](#the-romanian-language--limba-română)
+  - [Foreword](#foreword)
+  - [Table of Contents](#table-of-contents)
+  - [Information](#information)
+  - [Literature](#literature)
+  - [Structured education](#structured-education)
+  - [Interactive resources](#interactive-resources)
+  - [Compiled resources](#compiled-resources)
+  - [Media](#media)
+      - [Regional](#regional)
       - [Moldova](#moldova)
       - [Diaspora](#diaspora)
-  - [Introduction](#introduction)
-    - [Videos](#videos)
-    - [Links to other pages](#links-to-other-pages)
-  - [Connections to other languages](#connections-to-other-languages)
-  - [Comparisons to other languages](#comparisons-to-other-languages)
-- [Literature](#literature)
-  - [Grammars](#grammars)
-  - [Books](#books)
-  - [Phrasebooks](#phrasebooks)
-  - [Blogs and magazines](#blogs-and-magazines)
-- [Structured education](#structured-education)
-  - [Courses and lessons](#courses-and-lessons)
-  - [Guides](#guides)
-    - [Grammar](#grammar)
-- [Interactive resources](#interactive-resources)
-  - [Websites](#websites)
-  - [Applications and games](#applications-and-games)
-- [Compiled resources](#compiled-resources)
-  - [Dictionaries](#dictionaries)
-    - [Monolingual](#monolingual)
-    - [Bilingual](#bilingual)
-    - [Multilingual](#multilingual)
-  - [Directories and Collections](#directories-and-collections)
-  - [Notes](#notes)
-- [Media](#media)
-  - [Channels](#channels)
-  - [Playlists](#playlists)
-  - [Podcasts](#podcasts)
-- [Communities](#communities)
-  - [Discord](#discord)
-- [Tools](#tools)
-  - [Translation](#translation)
-- [References](#references)
+      - [Diaspora](#diaspora-1)
+  - [Communities](#communities)
+  - [Tools](#tools)
+  - [References](#references)
 
 ## Information
 
@@ -492,29 +469,98 @@ to resources.
   <!--This section needs a description.-->
 
   - [Actualitate](https://actualitate.net/)
+  - [Actualitatea Românească](https://actualitatea-romaneasca.ro/)
   - [Adevărul](https://adevarul.ro/)
+  - [Agerpres](https://agerpres.ro/)
   - [Cancan](https://cancan.ro/)
+  - [Click România](https://clickromania.co.uk/)
   - [Digi24](https://digi24.ro/stiri/actualitate)
   - [Evenimentul Zilei](https://evz.ro/)
+  - [Gazeta Românească](https://gazetaromaneasca.com/)
   - [HotNews](https://hotnews.ro)
+  - [Jurnal Românesc](https://jurnalromanesc.ro/)
+  - [Jurnalul Românesc](https://jurnalulromanesc.eu/)
   - [Libertatea](https://libertatea.ro/stiri)
   - [Mediafax](https://mediafax.ro/)
+  - [Monitorul de Gălați]()
   - [News.ro](https://news.ro/)
   - [News 24](https://news24.ro/)
   - [Observator News](https://observatornews.ro/)
+  - [Radio DA](https://radioda.ro/)
+  - [Radio Punct](https://radiopunct.com/)
+  - [Radio România Actualități](https://romania-actualitati.ro/)
   - [Redacția](https://redactia.ro/)
+  - [RGN Press](https://rgnpress.ro/)
+  - [România Expres](https://romaniaexpres.com/)
   - [România TV](https://romaniatv.net/)
   - [Sport.ro](https://sport.ro/)
   - [Știri pe Surse](https://stiripesurse.ro/)
   - [Știrile Pro TV](https://stirileprotv.ro/)
+  - [Timp Românesc](https://timpromanesc.ro/)
+  - [TVR](http://tvr.ro/)
   - [Ziar.com](https://ziar.com/)
   - [Ziare.com](https://ziare.com/)
+  - [Ziarul Românesc](https://ziarulromanesc.net/)
+
+  #### Regional
+
+    <!--This section needs a description.-->
+
+    - [Monitorul de Gălați](https://monitoruldegalati.ro/)
 
   #### Moldova
 
+    <!--This section needs a description.-->
+
+    - [Agora](https://agora.md/)
+    - [Deschide](https://deschide.md/)
+    - [InfoPrut](https://infoprut.ro/)
+    - [Natura](https://natura.md/)
     - [Noi.md](https://noi.md/md/)
     - [Publika](https://publika.press/)
+    - [Români](https://romani.md/)
+    - [Știri pe Surse](https://stiripesurse.md/)
     - [Timpul.md](https://timpul.md/)
+    - [Tribuna](https://tribuna.md/)
+    - [TVR Moldova](https://tvrmoldova.md/)
+    - [Unimedia](https://unimedia.info/)
+
+  #### Diaspora
+
+    <!--This section needs a description.-->
+
+    - [Accent Montreal](https://accentmontreal.com/) (Canada)
+    - [Agenda Românească](https://agendaromaneasca.com/) (Canada)
+    - [Arthis](https://arthis.org/) (France)
+    - [Diaspora](https://diaspora.ro/)
+    - [ER News](https://elenarobu.md/)
+    - [Gazeta de Italia](https://gazetadeitalia.it/) (Italy)
+    - [Gazeta de Spania](https://gazetadespania.es/) (Spain)
+    - [Gândacul de Colorado](https://gandaculdecolorado.com/) (US)
+    - [Informația IRL](https://informatiairl.com/) (Ireland)
+    - [Observatorul](https://observatorul.com/) (Canada)
+    - [Occidentul Românesc](https://occidentul-romanesc.com/)
+    - [Pagini Românești](https://paginiromanesti.ca/) (Canada)
+    - [Radio Diaspora Online](http://radiodiasporaonline.com/)
+    - [Românii din Bulgaria](https://romanii-din-bulgaria.blogspot.com/) (Bulgaria)
+    - [Românii din Spania](https://romaniidinspania.com/) (Spain)
+    - [Românul](https://romanul.eu/) (Spain)
+    - [RTVD](https://rtvd.ro/)
+    - [Slova Ortodoxă](https://slovaortodoxa.blogspot.com/)
+    - [Univers Românesc](https://universromanesc.com/)
+
+- ### Radio
+
+  <!--This section needs a description.-->
+
+  - [Radio DA](https://radioda.ro/)
+  - [Radio România Actualități](https://romania-actualitati.ro/)
+
+  #### Diaspora
+
+  <!--This section needs a description.-->
+
+  - [Radio Diaspora Online](http://radiodiasporaonline.com/)
 
 ## Communities
 
