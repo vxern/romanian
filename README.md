@@ -11,6 +11,11 @@ I decided to create a repository dedicated to the Romanian language.
 I invite everybody and anybody to contribute to his and my own repository, and
 to create one for other languages which do not yet have such a repository.
 
+## Legend
+
+- 💵 - Paid service
+- `md` - Missing diacritics
+
 ## Table of Contents
 
 <!--This section needs a description.-->
@@ -29,6 +34,8 @@ to create one for other languages which do not yet have such a repository.
 - [Literature](#literature)
   - [Grammars](#grammars)
   - [Books](#books)
+  - [Audiobooks](#audiobooks)
+  - [Textbooks](#textbooks)
   - [Phrasebooks](#phrasebooks)
   - [Blogs and magazines](#blogs-and-magazines)
 - [Structured education](#structured-education)
@@ -254,6 +261,14 @@ to resources.
     repository of free literature.
   - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
     free on the Humanitas publishing house website.
+  - [Biblia Ortodoxă ('The Orthodox Bible')](https://doxologia.ro/biblia-ortodoxa)
+
+- ### Audiobooks
+
+  <!--This section needs a description.-->
+
+  - 💵 [Voxa.ro](https://voxa.ro/) - Audiobook service.
+  - 
 
 - ### Textbooks
 
