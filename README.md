@@ -319,7 +319,7 @@
       Online** - 'Explanatory Dictionary Online') - The largest collection of
       entries from various Romanian dictionaries. – Features 1,000,000 headword
       entries, word games and daily and monthly word selections.
-    - [Dicționar Urban](https://dictionar-urban.ro) - Romanian equivalent of
+    - [Dicționar Urban](https://dictionarurban.ro) - Romanian equivalent of
       the [Urban Dictionary](https://urbandictionary.com).
 
   - #### Bilingual
@@ -499,7 +499,6 @@
     - [InfoPrut](https://infoprut.ro/)
     - [Natura](https://natura.md/)
     - [Noi.md](https://noi.md/md/)
-    - [Publika](https://publika.press/)
     - [Români](https://romani.md/)
     - [Știri pe Surse](https://stiripesurse.md/)
     - [Timpul.md](https://timpul.md/)
