@@ -13,7 +13,11 @@
 
 ## Table of Contents
 
-- [Information](#information)
+<details>
+
+<summary>Show</summary>
+
+- [About Romanian](#about-romanian)
   - [Briefing](#briefing)
     - [Native countries](#native-countries)
       - [Romania](#romania)
@@ -57,10 +61,13 @@
   - [Translation](#translation)
 - [References](#references)
 
-## Information
+</details>
 
-This section contains information about the Romanian language, as well as links
-to resources.
+## About Romanian
+
+<details>
+
+<summary>Show</summary>
 
 - ### Briefing
 
@@ -222,6 +229,8 @@ to resources.
     [Water](https://youtube.com/watch?v=GnarryJkhsY) |
     [Water 2](https://youtube.com/watch?v=Vbv2Eap1AJk)
 
+</details>
+
 ## Literature
 
 - ### Grammars
@@ -241,7 +250,6 @@ to resources.
 - ### Audiobooks
 
   - 💵 [Voxa.ro](https://voxa.ro/) - Audiobook service.
-  - 
 
 - ### Textbooks
 
