@@ -1,24 +1,17 @@
 # The Romanian Language / Limba Română
 
-## Foreword
+## Key
 
-Having struggled to find a list of useful resources to learn the Romanian
-language and having been inspired by a fellow language learner,
-[TheDomcio](https://github.com/TheDomcio), and his
-[wonderful repository for the Polish language](https://github.com/TheDomcio/WonderfulPolishLanguage),
-I decided to create a repository dedicated to the Romanian language.
+<details>
 
-I invite everybody and anybody to contribute to his and my own repository, and
-to create one for other languages which do not yet have such a repository.
-
-## Legend
+<summary>Show</summary>
 
 - 💵 - Paid service
 - `md` - Missing diacritics
 
-## Table of Contents
+</details>
 
-<!--This section needs a description.-->
+## Table of Contents
 
 - [Information](#information)
   - [Briefing](#briefing)
@@ -124,27 +117,19 @@ to resources.
 
     - ##### Diaspora
 
-      <!--This section needs a description.-->
-
       - [Wikipedia Article](https://en.wikipedia.org/wiki/Romanian_diaspora) -
         Surface information about the diaspora, and its population composition
         of various countries.
 
 - ### Introduction
 
-  <!--This section needs a description.-->
-
   - #### Videos
-
-    <!--This section needs a description.-->
 
     - [Romanian: The Forgotten Romance Language](https://youtube.com/watch?v=1xVkRh7mEe0)
     - [Raluca speaking Romanian](https://youtube.com/watch?v=6TiSKGRjYLs)
     - [Romanian Language Learning Tips](https://youtube.com/watch?v=tv7CBZULvyw)
 
   - #### Links to other pages
-
-    <!--This section needs a description.-->
 
     - [Wikipedia Article](https://en.wikipedia.org/wiki/Romanian_language) -
       More information about the Romanian language, its family, its history,
@@ -154,14 +139,10 @@ to resources.
 
 - ### Connections to other languages
 
-  <!--This section needs a description.-->
-
   - 🇦🇱
     [The Romanian-Albanian Linguistic Connection](https://youtube.com/watch?v=aDPb-vVn07c)
 
 - ### Comparisons to other languages
-
-  <!--This section needs a description.-->
 
   - ✝️ [Romanian vs Latin](https://youtube.com/watch?v=FSwRoNtXdsE) 🇷🇴
   - 🇷🇴 [Latin vs Romanian](https://youtube.com/watch?v=d5CYM0YSDR4) ✝️
@@ -243,19 +224,13 @@ to resources.
 
 ## Literature
 
-<!--This section needs a description.-->
-
 - ### Grammars
-
-  <!--This section needs a description.-->
 
   - [Romanian Reference Grammar](https://fsi-language-courses.org/languages/Romanian/FSI%20-%20Romanian%20Reference%20Grammar%20-%20Student%20Text.pdf) -
     Prepared by Christina N. Hoffman, the Romanian Reference Grammar is a book
     created to explain Romanian grammar in an digestable format.
 
 - ### Books
-
-  <!--This section needs a description.-->
 
   - [Wikisource](https://ro.wikisource.org/wiki/Pagina_principală) - A
     repository of free literature.
@@ -265,26 +240,19 @@ to resources.
 
 - ### Audiobooks
 
-  <!--This section needs a description.-->
-
   - 💵 [Voxa.ro](https://voxa.ro/) - Audiobook service.
   - 
 
 - ### Textbooks
 
-  <!--This section needs a description.-->
   - [Manuale.edu.ro](https://manuale.edu.ro) - Romanian language textbooks, useful for advanced users.
 
 - ### Phrasebooks
-
-  <!--This section needs a description.-->
 
   - [Wikitravel Phrasebook](https://wikitravel.org/en/Romanian_phrasebook) - A
     rich phrasebook with many essential words and phrases.
 
 - ### Blogs and magazines
-
-  <!--This section needs a description.-->
 
   - 🇷🇴🇬🇧 [Diacronia](https://diacronia.ro/) - An online, bilingual, open-access,
     peer-reviewed journal of diachronic linguistics.
@@ -292,8 +260,6 @@ to resources.
 ## Structured education
 
 - ### Courses and lessons
-
-  <!--This section needs a description.-->
 
   - [Simple Romanian](http://simpleromanian.com/) - A website created by a
     simple Romanian, featuring dozens of lessons aiming to promote authentic
@@ -308,11 +274,7 @@ to resources.
 
 - ### Guides
 
-  <!--This section needs a description.-->
-
   - #### Grammar
-
-    <!--This section needs a description.-->
 
     - 🇷🇴 [Gramatica Limbii Române](https://gramaticalimbiiromane.ro/) ('Grammar
       of the Romanian Language') - A guide created with the intention of
@@ -321,11 +283,7 @@ to resources.
 
 ## Interactive resources
 
-<!--This section needs a description.-->
-
 - ### Applications and games
-
-  <!--This section needs a description.-->
 
   - 🇷🇴🇺🇳 [BaBaDum](https://babadum.com/) - A non-profit initiative, built thanks
     to friendly institutions and generous players. – Features 5 word games with
@@ -341,15 +299,9 @@ to resources.
 
 ## Compiled resources
 
-<!--This section needs a description.-->
-
 - ### Dictionaries
 
-  <!--This section needs a description.-->
-
   - #### Monolingual
-
-    <!--This section needs a description.-->
 
     - [dexonline.ro](https://dexonline.ro/) (**Dicționar Explicativ
       Online** - 'Explanatory Dictionary Online') - The largest collection of
@@ -359,8 +311,6 @@ to resources.
       the [Urban Dictionary](https://urbandictionary.com).
 
   - #### Bilingual
-
-    <!--This section needs a description.-->
 
     - [Bab.la](https://en.bab.la/dictionary/english-romanian)
     - [Dicționare](http://dictionare.com/) ('Dictionaries') - An
@@ -376,8 +326,6 @@ to resources.
 
   - #### Multilingual
 
-    <!--This section needs a description.-->
-
     - [Glosbe](https://glosbe.com/en/ro) - A many-to-many word and
       translation look-up dictionary which allows users to translate words from
       their native language to Romanian and vice-versa. – Contains 120,000
@@ -388,8 +336,6 @@ to resources.
 
 - ### Directories and Collections
 
-  <!--This section needs a description.-->
-
   - [Language Player](https://languageplayer.io/en/ro) - A directory of Romanian videos,
     TV shows, music, live TV, and a tool for reading Romanian with dynamic
     translations.
@@ -399,18 +345,12 @@ to resources.
 
 - ### Notes
 
-  <!--This section needs a description.-->
-
   - [MrMeloman's Notes](https://github.com/mrmeloman/romanian/) - A collection
     of schemes, lists and other materials made while studying Romanian.
 
 ## Media
 
-<!--This section needs a description.-->
-
 - ### Channels
-
-  <!--This section needs a description.-->
 
   - #### Language-related
 
@@ -474,15 +414,11 @@ to resources.
 
 - ### Playlists
 
-  <!--This section needs a description.-->
-
   - [Easy Romanian](https://youtube.com/watch?v=yhFsqUx2T-g&list=PLSGlhFQUEl3jtvuXulhZRYDiYefnBYzGh&index=6) -
     A series comprising short videos with a native speaker of Romanian in
     public, speaking to passersby with Romanian and English subtitles.
 
 - ### Podcasts
-
-  <!--This section needs a description.-->
 
   - [Mind Architect](https://open.spotify.com/show/2i93Ub9rGWTNVyEg0rsxPb) -
     Neuroscience and psychology for the layman. Relationships and personal life
@@ -505,8 +441,6 @@ to resources.
     More than 400 episodes to improve your Romanian skills by Camelia.
 
 - ### News
-
-  <!--This section needs a description.-->
 
   - [Actualitate](https://actualitate.net/)
   - [Actualitatea Românească](https://actualitatea-romaneasca.ro/)
@@ -544,13 +478,9 @@ to resources.
 
   #### Regional
 
-    <!--This section needs a description.-->
-
     - [Monitorul de Gălați](https://monitoruldegalati.ro/)
 
   #### Moldova
-
-    <!--This section needs a description.-->
 
     - [Agora](https://agora.md/)
     - [Deschide](https://deschide.md/)
@@ -566,8 +496,6 @@ to resources.
     - [Unimedia](https://unimedia.info/)
 
   #### Diaspora
-
-    <!--This section needs a description.-->
 
     - [Accent Montreal](https://accentmontreal.com/) (Canada)
     - [Agenda Românească](https://agendaromaneasca.com/) (Canada)
@@ -591,31 +519,21 @@ to resources.
 
 - ### Radio
 
-  <!--This section needs a description.-->
-
   - [Radio DA](https://radioda.ro/)
   - [Radio România Actualități](https://romania-actualitati.ro/)
 
   #### Diaspora
 
-  <!--This section needs a description.-->
-
   - [Radio Diaspora Online](http://radiodiasporaonline.com/)
 
 ## Communities
 
-<!--This section needs a description.-->
-
 - ### Discord
-
-  <!--This section needs a description.-->
 
   - [Learn Romanian](https://discord.gg/kBj3a7n) - The largest server on Discord
     dedicated to the study of the Romanian language.
 
 ## Tools
-
-<!--This section needs a description.-->
 
 - 🇬🇧 [Forvo](https://forvo.com/languages/ro/) - A pronunciation dictionary
   featuring over 10,000 pronunciations by native speakers of Romanian words.
@@ -639,8 +557,6 @@ to resources.
 
 - ### Translation
 
-  <!--This section needs a description.-->
-
   - 🇷🇴🇺🇳 [DeepL](https://deepl.com/translator) - An astoundingly accurate neural
     machine translation service.
     - Note: DeepL uses English as an intermediary language, therefore translations
@@ -649,7 +565,5 @@ to resources.
   - 🇷🇴🇺🇳 [Lingvanex](https://lingvanex.com/demo/)
 
 ## References
-
-<!--This section needs a description.-->
 
 1 - https://worldometers.info/world-population/romania-population/
