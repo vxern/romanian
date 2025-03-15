@@ -1,15 +1,4 @@
-# The Romanian Language / Limba Română
-
-## Key
-
-<details>
-
-<summary>Show</summary>
-
-- 💵 - Paid service
-- `md` - Missing diacritics
-
-</details>
+# Limba română
 
 ## Table of Contents
 
@@ -17,6 +6,8 @@
 
 <summary>Show</summary>
 
+- [Table of Contents](#table-of-contents)
+- [Labels](#labels)
 - [About Romanian](#about-romanian)
   - [Briefing](#briefing)
     - [Native countries](#native-countries)
@@ -60,6 +51,17 @@
 - [Tools](#tools)
   - [Translation](#translation)
 - [References](#references)
+
+</details>
+
+## Labels
+
+<details>
+
+<summary>Show</summary>
+
+- 💵 - Paid service
+- `md` - Missing diacritics
 
 </details>
 
