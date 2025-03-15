@@ -25,7 +25,6 @@
   - [Grammars](#grammars)
   - [Books](#books)
   - [Audiobooks](#audiobooks)
-  - [Textbooks](#textbooks)
   - [Phrasebooks](#phrasebooks)
   - [Blogs and magazines](#blogs-and-magazines)
 - [Structured education](#structured-education)
@@ -254,10 +253,6 @@
 - ### Audiobooks
 
   - 💵 [Voxa.ro](https://voxa.ro/) - Audiobook service.
-
-- ### Textbooks
-
-  - [Manuale.edu.ro](https://manuale.edu.ro) - Romanian language textbooks, useful for advanced users.
 
 - ### Phrasebooks
 
