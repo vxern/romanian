@@ -505,7 +505,6 @@
     - [Dict.com](https://dict.com/Romanian-English)
     - [Hallo.ro](https://hallo.ro/english-romanian-dictionary/)
     - [WordReference](https://wordreference.com/enro/)
-    - [LingvoSoft](https://lingvozone.com/main.jsp?do=dictionary&action=setlanguages&language_id_from=23&language_id_to=14&x=23&y=15)
     - [SensAgent](https://dictionary.sensagent.com/%20/en-ro/)
     - [TechDico](https://techdico.com/)
     - [Romanian-English and English-Romanian Dictionary](https://openlibrary.org/works/OL3266613W/Romanian-English_English-Romanian_dictionary) -
@@ -737,8 +736,6 @@
     - [Arthis](https://arthis.org/) (France)
     - [Diaspora](https://diaspora.ro/)
     - [ER News](https://elenarobu.md/)
-    - [Gazeta de Italia](https://gazetadeitalia.it/) (Italy)
-    - [Gazeta de Spania](https://gazetadespania.es/) (Spain)
     - [Gândacul de Colorado](https://gandaculdecolorado.com/) (US)
     - [Informația IRL](https://informatiairl.com/) (Ireland)
     - [Observatorul](https://observatorul.com/) (Canada)
