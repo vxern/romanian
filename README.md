@@ -701,6 +701,7 @@
   - [RGN Press](https://rgnpress.ro/)
   - [România Expres](https://romaniaexpres.com/)
   - [România TV](https://romaniatv.net/)
+  - [Romanian Newspapers Online](https://www.w3newspapers.com/romania/) - A list of newspapers available to access online.
   - [Sport.ro](https://sport.ro/)
   - [Știri pe Surse](https://stiripesurse.ro/)
   - [Știrile Pro TV](https://stirileprotv.ro/)
@@ -709,7 +710,6 @@
   - [Ziar.com](https://ziar.com/)
   - [Ziare.com](https://ziare.com/)
   - [Ziarul Românesc](https://ziarulromanesc.net/)
-  - [Romanian Newspapers Online](https://www.w3newspapers.com/romania/) - A list of newspapers available to access online.
 
   #### Regional
 
