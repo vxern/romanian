@@ -1,0 +1,5 @@
+@media only screen and (min-width: 1200px) {
+  :root {
+    --content-max-width: 50%;
+  }
+}
