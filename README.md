@@ -27,12 +27,14 @@
   - [Audiobooks](#audiobooks)
   - [Phrasebooks](#phrasebooks)
   - [Blogs and magazines](#blogs-and-magazines)
+  - [Book publishers](#book-publishers)
+  - [Bookstores](#bookstores)
+  - [E-book stores](#e-book-stores)
 - [Structured education](#structured-education)
   - [Courses and lessons](#courses-and-lessons)
   - [Guides](#guides)
     - [Grammar](#grammar)
 - [Interactive resources](#interactive-resources)
-  - [Websites](#websites)
   - [Applications and games](#applications-and-games)
 - [Compiled resources](#compiled-resources)
   - [Dictionaries](#dictionaries)
@@ -115,6 +117,9 @@
         information about the Romanian country.
       - [Culture Crossing Guide](http://guide.culturecrossing.net/basics_business_student.php?id=170) -
         Facts about Romania and its culture, as well as its people.
+      - [Resurse educaționale pentru orientarea în societate](https://www.romaniaeacasa.ro/react_ro-resurse-educationale-pentru-orientarea-in-societate/) -
+      Free online guides, exercises, and videos for living in Romania for Arabic, Kurdish, French, English, Chinese, Romanian,
+      Tigrinya, Turkish and Pashto speakers. Includes free guides for learning Romanian for adults and children.
 
     - ##### Moldova
 
@@ -130,6 +135,9 @@
       - [Wikipedia Article](https://en.wikipedia.org/wiki/Romanian_diaspora) -
         Surface information about the diaspora, and its population composition
         of various countries.
+      - [Comunități românești](https://dprp.gov.ro/web/comunitati-romanesti/) - Documented Romanian communities from around the
+        world.
+        
 
 - ### Introduction
 
@@ -241,6 +249,11 @@
   - [Romanian Reference Grammar](https://fsi-language-courses.org/languages/Romanian/FSI%20-%20Romanian%20Reference%20Grammar%20-%20Student%20Text.pdf) -
     Prepared by Christina N. Hoffman, the Romanian Reference Grammar is a book
     created to explain Romanian grammar in an digestable format.
+  - Gramatica de bază a limbii române - Editura Univers Enciclopedic Gold, 2016
+  - Gramatica limbii române pentru gimnaziu - Editura Univers Enciclopedic Gold, 2019
+  - Romanian: An Essential Grammar - Routledge, 2007 (first edition), 2021 (second edition)
+  - Gramatica (academică a) limbii române (GALR) - Editura Academiei Române, 2008
+  - Dana Cojocaru (Duke University) - Romanian Grammar, 2003
 
 - ### Books
 
@@ -249,10 +262,17 @@
   - [Grupul Humanitas](https://humanitas.ro/cauta/gratuit) - Books available for
     free on the Humanitas publishing house website.
   - [Biblia Ortodoxă ('The Orthodox Bible')](https://doxologia.ro/biblia-ortodoxa)
+  - [Litera Educațional](https://edu.litera.ro/index.php) - A collection of free educational textbooks from the Litera
+    publisher available online.
+  - Discover Romanian: An Introduction to the Language and Culture - Ohio State University Press, 1995
+  - Dana Cojocaru - You Can Speak Romanian!, 2003
+  - Complete Romanian - Teach Yourself - McGraw-Hill Education, 2010
+  - Colloquial Romanian: The Complete Course for Beginners - Routledge, 2012 (fourth edition)
 
 - ### Audiobooks
 
   - 💵 [Voxa.ro](https://voxa.ro/) - Audiobook service.
+  - 💵 [AudioTribe](https://audiotribe.ro/) - Audiobook service.
 
 - ### Phrasebooks
 
@@ -264,6 +284,162 @@
   - 🇷🇴🇬🇧 [Diacronia](https://diacronia.ro/) - An online, bilingual, open-access,
     peer-reviewed journal of diachronic linguistics.
 
+- ### Book publishers
+   
+  <details>
+      
+  <summary>Publishers from Romania</summary>
+  
+  - Editura Storia Books
+  - Editura Crișan
+  - Editura Kreativ
+  - Akademos Art
+  - Albatros
+  - Aramis
+  - Ars Libri
+  - Art (Editura Art)
+  - Art Klett (Editura Art Klett)
+  - Arthur (Editura Arthur)
+  - Badea & Professional Consulting
+  - Bookzone
+  - Carminis
+  - Cartea Românească
+  - Casa Cărții de Știință
+  - Casa Editorială Regina
+  - Casa Radio
+  - Casa Școalelor
+  - Cermi
+  - Corint
+  - Curtea Veche
+  - Editura Academiei Române
+  - Editura All
+  - Editura Basilica
+  - Editura Booklet
+  - Editura Cardinal
+  - Editura Casa
+  - Editura Cetatea de Scaun
+  - Editura Colloseum
+  - Editura Corvin
+  - Editura Didactică și Pedagogică (EDP)
+  - Editura Doxologia
+  - Editura Edu
+  - Editura Fair Partners
+  - Editura Favorit
+  - Editura Infarom
+  - Editura Mașina de scris
+  - Editura Nagard
+  - Editura Național
+  - Editura PIM
+  - Editura Prestige
+  - Editura Pygmalion
+  - Editura Roza Vânturilor
+  - Editura Semne
+  - Editura Sigma
+  - Editura Sirius
+  - Editura Școala Ardeleană
+  - Editura Științifică
+  - Editura Tehnică
+  - Editura Tehnopress
+  - Editura Tineretului
+  - Editura Universității „Alexandru Ioan Cuza” din Iași
+  - Editura Yume
+  - Egumenița
+  - Ion Creangă (Editura Ion Creangă)
+  - Integral
+  - Institutul European
+  - Erc Press
+  - Flamingo GD
+  - Humanitas
+  - Litera
+  - Literagraf
+  - Lumină din Lumină
+  - Meridiane
+  - Meronia
+  - Minerva
+  - Militară
+  - Nemira
+  - Niculescu (Editura Niculescu)
+  - Paideia
+  - Paralela 45
+  - Polirom
+  - Presa Universitară Clujeană
+  - Pro Universitaria
+  - Prut
+  - Rao
+  - Risoprint
+  - Sedcom Libris
+  - Socec
+  - Steaua Nordului
+  - Teora
+  - Trei
+  - Trinitas
+  - Univers
+  - Univers Enciclopedic
+  - Universul Juridic
+
+  </details>
+
+  <details>
+  
+  <summary>Publishers from Republica Moldova</summary>
+    
+  - Arc
+  - Biblion
+  - Cartea Moldovei
+  - Cartego
+  - Cartier
+  - Lexon-Prim
+  - Editura Didactică de Stat Lumina
+  - Prut Internațional
+  - Regina Cărților
+  - Știința
+  - Tehnica-Info
+
+  </details>
+
+  <details>
+
+  <summary>Publishers from Serbia</summary>
+  
+  - Editura Libertatea (Pančevo)
+  - Editura Românii Independenți din Serbia (Vršac)
+      
+  </details>
+ 
+- ### Bookstores
+
+  - [Cărturești](https://carturesti.ro/) - Book store that ships worldwide from Romania.
+  - [Librăria Cati](https://www.librariacati.com/) - Romanian book store of children's and family books in Abu Dhabi, the United
+    Arab Emirates.
+  - [Romanian Books USA](https://romanianbooksusa.com/) - Book store in Logan, Utah, USA.
+  - [Librăria Românească în Europa](https://librariaromaneasca.eu/) - Book store that ships to Albania, Belgium, the Czech
+    Republic, Denmark, Switzerland, France (except Corsica), Germany, Greece, Italy, the Netherlands, Portugal, Spain (excluding
+    the Canary and Balearic Islands) and Sweden.
+  - [Bebe Librărie](https://www.bebelibrarie.ro/) - Book store with books for young children and parents that ships worldwide.
+  - [Diaspora Citește](https://diasporaciteste.eu/) - Book store in Prague, the Czech Republic.
+  - [Ersedi](https://www.ersedi.de/) - Romanian book store in Brechen, Germany.
+  - [Cărți românești în Germania și Europa](https://cartiromanesti.de/) - Book store for people wanting shipping within 48 hours
+    in Germany.
+  - [Casa cu cărți](https://casacucarti.co.uk/) - Book store in the UK.
+  - [Clubul Cărți Românești](https://clubulcartiromanesti.co.uk/) - Book store in the UK.
+  - Librăria Book Lovers - UK library with small collection of Romanian books, based in Luton.
+  - [O Carte](https://ocarte.dk/) - Romanian book shop in Ullerslev, Denmark.
+  - [Librăria Balint](https://libraria-balint.de/) - Romanian book shop in Hartmannsdorf, Germany.
+  - [Târgul Cărții](https://www.targulcartii.ro/) - Romanian book store that also has old books, which ships worldwide.
+  - [Eurolibro Boutique Roumaine online](https://eurolibro.hd.free.fr/index.php) - Online book shop in Bruz, France.
+  - Biblioteca RO Junior UK Ltd. – Book shop in the United Kingdom.
+  - [O Carte Perfectă](https://ocarteperfecta.ie/) - Ireland based online Romanian book shop.
+  - [Cărți Românești](https://cartiromanesti.co.uk/) - UK-based online Romanian book shop.
+  - [Librarie.net](https://www.librarie.net/) - Book store that ships worldwide.
+  - [Nemira](https://nemira.ro/) - Book publisher that ships worldwide.
+
+- ### E-book stores
+
+  - [Cartier](https://cartier.md/carte-categorie/ebook/)
+  - [Polirom](https://polirom.ro/2-acasa?condition=e-book)
+  - [Humanitas](https://www.libhumanitas.ro/ebooks.html)
+  - [Libris](https://www.libris.ro/ebooks)
+    
 ## Structured education
 
 - ### Courses and lessons
@@ -277,7 +453,9 @@
   - [Easy Romanian](https://easyromanian.com) - A work of love, the Easy
     Romanian online course features dialogs, vocabulary builder, grammar, audio
     created by Romanians in Romania.
-  - 🇩🇪 [Grammatiken.de](https://grammatiken.de/rumaenische-grammatik-online-lernen/) - A detailed course on Romanian grammar in German.
+  - 🇩🇪 [Grammatiken.de](https://grammatiken.de/rumaenische-grammatik-online-lernen/) - A detailed course on Romanian grammar in
+    German.
+  - [Live Lingua Romanian](https://www.livelingua.com/courses/romanian)
 
 - ### Guides
 
@@ -330,6 +508,8 @@
     - [LingvoSoft](https://lingvozone.com/main.jsp?do=dictionary&action=setlanguages&language_id_from=23&language_id_to=14&x=23&y=15)
     - [SensAgent](https://dictionary.sensagent.com/%20/en-ro/)
     - [TechDico](https://techdico.com/)
+    - [Romanian-English and English-Romanian Dictionary](https://openlibrary.org/works/OL3266613W/Romanian-English_English-Romanian_dictionary) -
+      Available online with an Internet Archive account.
 
   - #### Multilingual
 
@@ -349,6 +529,7 @@
   - [RomanianVoice](https://romanianvoice.com/) - A repository with cultural
     information about Romania with poetry, music, humour, theatre pieces, as
     well as banknotes and passports.
+    
 
 - ### Notes
 
@@ -416,8 +597,51 @@
       including Romania and Moldova.
     - 🇷🇴 [Marian Adventures](https://youtube.com/@MarianAdventures) - Marian
       travels solo around the world, documenting his adventures.
+    - 🇷🇴 [Zaiafet](https://www.youtube.com/@zaiafet)
+    - 🇷🇴 [Recorder](https://www.youtube.com/@RecorderRomania)
+    - 🇷🇴 [Dezaburit](https://www.youtube.com/@Dezaburit)
+    - 🇷🇴 [HappyFishTV](https://www.youtube.com/@happyfishteleviziune)
+    - 🇷🇴 [CreativeMonkeyzArmy](https://www.youtube.com/@CreativeMonkeyzArmy)
+    - 🇷🇴 [Zona IT](https://www.youtube.com/@DanCadar)
+    - 🇷🇴 [Cristian Presură - Fizica Povestită](https://www.youtube.com/@presura) - Cristian explains advanced physics in simple
+      ways for everyone to understand.
+    - 🇷🇴 [Istoria României](https://www.youtube.com/@istoriaromanieipodcast) - Romanian history podcast channel.
+    - 🇷🇴 [Știrile zilei - Recorder](https://www.youtube.com/@stirile_zilei_Recorder)
+    - 🇷🇴 [Declic](https://www.youtube.com/@declicro)
+    - 🇷🇴 [Snoop](https://www.youtube.com/@redactiasnoop) - Investigative journalism.
+    - 🇷🇴 [Recorder Talks](https://www.youtube.com/@recordertalks)
+    - 🇷🇴 [RFI România](https://www.youtube.com/@rfiromania)
+    - 🇷🇴 [Europa Liberă România](https://www.youtube.com/@europa-libera-romania)
+    - 🇷🇴 [Stariea Nației Oficial](https://www.youtube.com/@StareaNatiei)
+    - 🇷🇴 [Vorbitorincii](https://www.youtube.com/@Vorbitorincii)
+    - 🇷🇴 [4fără15](https://www.youtube.com/c/4f%C4%83r%C4%8315) - Romanian Youtuber who is pursuing a Comparative Literature
+      master's.
+    - 🇷🇴 [Corpus Draculianum](https://www.youtube.com/@CorpusDraculianum) - A channel dedicated to the history of Romania, with
+      a main focus on Wallachian voivode Vlad III the Impaler Drăculea.
+    - 🇷🇴 [Istorie pe șleau](https://www.youtube.com/c/Istoriepe%C8%99leau) - Historical mini-documentaries about Romania.
+    - 🇷🇴 [Ciprian Lospa](https://www.youtube.com/@CiprianLospa)
+    - 🇷🇴 [rovion](https://www.youtube.com/@rovion)
+    - 🇷🇴 [Nicu Mihai: Animații](https://www.youtube.com/@NicuMihai) - Part vlog, part art and animation channel led by graphic
+      designer Nicu Mihai.
+    - 🇷🇴 [CINEPUB](https://www.youtube.com/@THECINEPUB) - Romanian film archive channel.
+    - 🇲🇩 [Comedy Zebra Show](https://www.youtube.com/@ComedyZebraShow) - Moldovan comedy group channel.
+    - 🇷🇴 [Robe](https://www.youtube.com/@Robecristian) - Youtuber and member of the music group Pyroblast.
+    - 🇷🇴 [Iulia Boloca](https://www.youtube.com/@IuliaBoloca) - Romanian Youtuber channel.
+    - 🇷🇴 [Daniel Pîrvan](https://www.youtube.com/@TheLifeinRO) - Romanian Youtuber, musician, and artist channel.
+    - 🇷🇴 [sector7tv](https://www.youtube.com/@sector7tv) - Humour channel.
+    - 🇷🇴 [Silviu Gherman](https://www.youtube.com/@SilviuGherman)
+    - 🇷🇴 [bucharestBIKEtraffic](https://www.youtube.com/@bucharestbiketraffic)
     - 🇲🇩 [SunChase Journey](https://youtube.com/@SunChaseJourney) - Channel
       documenting a Moldovan couple's travels around the Middle East and Iran.
+    - 🇲🇩 [Ziarul de Gardă](https://www.youtube.com/@Ziarul_de_Garda) - Investigative journalism and reports from Republica
+      Moldova.
+    - 🇲🇩 [Europa Liberă Moldova](https://www.youtube.com/@europa-libera-moldova) - Counterpart of Europa Liberă România for
+      Republica Moldova.
+    - 🇲🇩 [AGORA Moldova](https://www.youtube.com/@AgoraMoldova) - Journalism channel discussing things that affect citizens of
+      Republica Moldova.
+    - 🇲🇩 [Moldova.org](https://www.youtube.com/@moldovaorg) -  Journalism channel from Republica Moldova.
+    - 🇲🇩 [Internetu' Grăiește](https://www.youtube.com/c/InternetuGr%C4%83ie%C8%99te) - Channel discussing internet news from
+      Republica Moldova.
 
 - ### Playlists
 
@@ -446,6 +670,10 @@
     History of Romania and the rest of the world.
   - [Learn Romanian Podcast](https://open.spotify.com/show/5conUoh2sxAQjKqURIii2a) -
     More than 400 episodes to improve your Romanian skills by Camelia.
+  - [eTeatru](https://www.eteatru.ro/#art-index/colectii/3491) - Collection of various theatre pieces from around the world
+    translated in Romanian and recorded.
+  - [Podcasturi Românești](https://podcasturiromanesti.ro/) - A collection of various podcasts from a variety of people and
+    stations.
 
 - ### News
 
@@ -474,6 +702,7 @@
   - [RGN Press](https://rgnpress.ro/)
   - [România Expres](https://romaniaexpres.com/)
   - [România TV](https://romaniatv.net/)
+  - [Romanian Newspapers Online](https://www.w3newspapers.com/romania/) - A list of newspapers available to access online.
   - [Sport.ro](https://sport.ro/)
   - [Știri pe Surse](https://stiripesurse.ro/)
   - [Știrile Pro TV](https://stirileprotv.ro/)
@@ -527,6 +756,7 @@
 
   - [Radio DA](https://radioda.ro/)
   - [Radio România Actualități](https://romania-actualitati.ro/)
+  - [Teatru la Microfon](https://radiomoldova.md/s/ro/7) - Radio drama archive from Teleradio Moldova.
 
   #### Diaspora
 
@@ -560,6 +790,7 @@
   set of letters.
 - 🇷🇴 [Cum Se Scrie](https://cum-se-scrie.ro) ('How is it written') - A tool for
   finding out the subtle differences between certain phrases and words.
+- 🇷🇴 [Silabe.ro](https://www.silabe.ro/) - Learn how to divide Romanian words into syllables correctly.
 
 - ### Translation
 
