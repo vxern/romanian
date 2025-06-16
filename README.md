@@ -597,8 +597,6 @@
       including Romania and Moldova.
     - 🇷🇴 [Marian Adventures](https://youtube.com/@MarianAdventures) - Marian
       travels solo around the world, documenting his adventures.
-    - 🇲🇩 [SunChase Journey](https://youtube.com/@SunChaseJourney) - Channel
-      documenting a Moldovan couple's travels around the Middle East and Iran.
     - 🇷🇴 [Zaiafet](https://www.youtube.com/@zaiafet)
     - 🇷🇴 [Recorder](https://www.youtube.com/@RecorderRomania)
     - 🇷🇴 [Dezaburit](https://www.youtube.com/@Dezaburit)
@@ -626,6 +624,15 @@
     - 🇷🇴 [Nicu Mihai: Animații](https://www.youtube.com/@NicuMihai) - Part vlog, part art and animation channel led by graphic
       designer Nicu Mihai.
     - 🇷🇴 [CINEPUB](https://www.youtube.com/@THECINEPUB) - Romanian film archive channel.
+    - 🇲🇩 [Comedy Zebra Show](https://www.youtube.com/@ComedyZebraShow) - Moldovan comedy group channel.
+    - 🇷🇴 [Robe](https://www.youtube.com/@Robecristian) - Youtuber and member of the music group Pyroblast.
+    - 🇷🇴 [Iulia Boloca](https://www.youtube.com/@IuliaBoloca) - Romanian Youtuber channel.
+    - 🇷🇴 [Daniel Pîrvan](https://www.youtube.com/@TheLifeinRO) - Romanian Youtuber, musician, and artist channel.
+    - 🇷🇴 [sector7tv](https://www.youtube.com/@sector7tv) - Humour channel.
+    - 🇷🇴 [Silviu Gherman](https://www.youtube.com/@SilviuGherman)
+    - 🇷🇴 [bucharestBIKEtraffic](https://www.youtube.com/@bucharestbiketraffic)
+    - 🇲🇩 [SunChase Journey](https://youtube.com/@SunChaseJourney) - Channel
+      documenting a Moldovan couple's travels around the Middle East and Iran.
     - 🇲🇩 [Ziarul de Gardă](https://www.youtube.com/@Ziarul_de_Garda) - Investigative journalism and reports from Republica
       Moldova.
     - 🇲🇩 [Europa Liberă Moldova](https://www.youtube.com/@europa-libera-moldova) - Counterpart of Europa Liberă România for
@@ -635,13 +642,6 @@
     - 🇲🇩 [Moldova.org](https://www.youtube.com/@moldovaorg) -  Journalism channel from Republica Moldova.
     - 🇲🇩 [Internetu' Grăiește](https://www.youtube.com/c/InternetuGr%C4%83ie%C8%99te) - Channel discussing internet news from
       Republica Moldova.
-    - 🇲🇩 [Comedy Zebra Show](https://www.youtube.com/@ComedyZebraShow) - Moldovan comedy group channel.
-    - 🇷🇴 [Robe](https://www.youtube.com/@Robecristian) - Youtuber and member of the music group Pyroblast.
-    - 🇷🇴 [Iulia Boloca](https://www.youtube.com/@IuliaBoloca) - Romanian Youtuber channel.
-    - 🇷🇴 [Daniel Pîrvan](https://www.youtube.com/@TheLifeinRO) - Romanian Youtuber, musician, and artist channel.
-    - 🇷🇴 [sector7tv](https://www.youtube.com/@sector7tv) - Humour channel.
-    - 🇷🇴 [Silviu Gherman](https://www.youtube.com/@SilviuGherman)
-    - 🇷🇴 [bucharestBIKEtraffic](https://www.youtube.com/@bucharestbiketraffic)
 
 - ### Playlists
 
