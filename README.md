@@ -434,6 +434,7 @@
   - [Nemira](https://nemira.ro/) - Book publisher that ships worldwide.
 
 - ### E-book stores
+
   - [Cartier](https://cartier.md/carte-categorie/ebook/)
   - [Polirom](https://polirom.ro/2-acasa?condition=e-book)
   - [Humanitas](https://www.libhumanitas.ro/ebooks.html)
