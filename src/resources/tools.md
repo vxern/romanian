@@ -21,6 +21,8 @@
   set of letters.
 - 🇷🇴 [Cum Se Scrie](https://cum-se-scrie.ro) ('How is it written') - A tool for
   finding out the subtle differences between certain phrases and words.
+- 🇬🇧 [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated
+  Romanian vocabulary card creation from video, audio, manga and books.
 
 - ## Translation
 
